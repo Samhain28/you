@@ -1,2 +1,11 @@
 @import"./reset.css";
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:wght@500;700&family=Ribeye&family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Gelasio', serif;
+    font-family: 'Ribeye', cursive;
+    font-family: 'Roboto', sans-serif;
+    background: rgba(0, 0, 0, 0.30);
+
+}
+
