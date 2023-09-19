@@ -6,8 +6,27 @@ body {
     font-family: 'Ribeye', cursive;
     font-family: 'Roboto', sans-serif;
     background: rgba(0, 0, 0, 0.30);
+
 }
 
 .container {
+    max-width: 1140px;
+}
+
+    /*header*/
+
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 42px 230px;
+}
+
+.nav-list {
+    display: flex;
+    
+}
+
+.nav-logo {
     
 }
